@@ -3,7 +3,7 @@
 
 ## Project Overview
 A Java Swing application that demonstrates OOP principles and event handling through an interactive drawing canvas.
-
+choose shape,choose color ,choose size, drag , clear all, undo
 ## ✅ Completed Objectives
 
 ### 1. Design Requirements ✅
